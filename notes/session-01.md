@@ -9,3 +9,4 @@ Commands practiced:
 - touch
 
 Workspace: ~/projects/backend-course
+Git practice: first commit successfully created.
