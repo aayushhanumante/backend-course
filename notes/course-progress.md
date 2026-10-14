@@ -25,14 +25,20 @@
 
 ### Week 0, Day 3: Git Fundamentals and GitHub
 
-- Initialized a Git repository on `main`.
+- Initialized and maintained a Git repository on main.
 - Practised staging, commits, status checks, diffs, and history inspection.
 - Learned the difference between tracked, untracked, staged, and committed files.
-- Created `.gitignore` rules for Python caches, virtual environments, and environment files.
-- Verified ignore rules using `git check-ignore -v`.
+- Created .gitignore rules for Python caches, virtual environments, and environment files.
+- Verified ignore rules using git check-ignore -v.
 - Generated an Ed25519 SSH key and configured GitHub SSH authentication.
-- Configured the `origin` remote and reported successfully pushing commits.
-- Updated commit author metadata to use GitHub's private `noreply` email.
+- Configured the origin remote and pushed commits to GitHub.
+- Updated commit author metadata to use GitHub's private noreply email.
+- Created the practice/git-branches branch and committed a practice note.
+- Pushed the practice branch and configured upstream tracking.
+- Compared branches using git diff and inspected commit history using git log.
+- Fast-forward merged the practice branch into main and pushed the updated main to GitHub.
+- Learned the distinction between git fetch, git pull, and git push.
+- Remaining practice: Hands-on verification of git fetch, pull requests, and basic collaboration workflows.
 
 **Repository:** https://github.com/aayushhanumante/backend-course
 
